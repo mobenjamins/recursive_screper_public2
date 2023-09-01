@@ -1,12 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "lucid-cocoa-375621",
-  "private_key_id": "2dc04e9671cbe361fc51a8261f8989a1811026b9",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDMXdaVdOFUneUN\nVZMuQCLFtieIE0eYr2KOTrTx4SIYRKlPzcEOIUXH6En0IV7hBFP4U8BLijs2FKB5\nMrw0KYUcgSXvzIZwxvyI6B5uBQXERHcJeN41g/hv2Z8ZEMbenZ64CFusNfQ7aOiw\nLCtZowv29L6/dcbh6jzjzDDUsjNDWS2ND8sCPE9jKe1iz5FHKwFXLQFD+1SM9cTW\n/qmOCLMOrjUWHt+rYSkJEKa2S5zZMzgA7KyqKRRF8+xH00rMkP/DGUeTFSZDPtpc\nTXJqRWRD2hTYTTE4KHBmJVcC4JMDjZlWuxWTDLwAcv8bdoZL9/4QdBdEkcKE4IsB\npcSw4ZeFAgMBAAECggEABaZPdRTE2O2/hAmaVsQ7odsaBys/RrOMhjIbUvd+FY0q\nYBQoUt9tGixsBPV6Nb7EooAQOBZjciiKUidqqAeA0EuqtJEjI1GA8Dj4hGKbqPQa\nlVazz+ds0gzCVvNNiCBz35MNk7pvHMhW7G3gKet1vHdCIbFcFOlAkyyVKgAeJi2v\nioBC2Mtky4qG7BSNgTmgXAuUaqP0rvvoH3bOrHAzIMvX+JlBRumwu++l1524NzRF\ntpV+ArMUDBeFE29+YLuQafiQ1W0W8EZyzTjUgBfi5brlzDz/DLm4U+A4Ng/NNvao\nzqo3Xs3iV5nR+Bw1+7Eq64wmcEqEPglg5rm9DNoi0QKBgQDtugvNIwgT6zA3vt7Y\nVeAL+isJXELP3GkdZEij9L2aDQCW5xVWDUz3EQnrxmp1W1LWR+Q+ZQ7PQT0xVuQd\niqZEb4lpiue2EZKNX5Io1k1TKKpQlj3kD9cC1xXRx3bVFNHGg75P/+fcGVICstqh\nAlF99BgUDN8SJ/hq8EnyliTTVQKBgQDcE1XBUSnnncxbguEz56FsB+seV8oikL6E\nkLY24LP31kSPG668Ern9Yy7/JcbTW8EYcZy2KhoO4GPnoi9jfBHr9sQj+fzZqHyi\n8bEMDYC9i9TfHwLclLE4xRDZuZeN/pO6DQXhcXqNYsdSQhROJVmwKFwn5KfEzv1C\nJEXqZS0TcQKBgCu2oULoZSzce3JUu7+GEvvA1bcT6wkz23RXI3BaqZ6xM2GMPoUj\nTvrDfFKJmrvXviS+9X5vsMh1k54F/05bV3WQGPF6ZF87Xfp3D3ZI6dEX0jGdXuYX\n746LJGz9w6EtAeICCbXGNcloModiggdHWNrTTrYpI7+/79MiOkbMSxs9AoGAS3jK\nAOjfsRGZgoyIxK8b2ZuBkz9SD7aJz5Z9FqbKsSSnEFjS/KaDaBU6ib+fxt4Bg2t6\n7bHUi+OB/27MR5bF4qEWtKvHfbFdRNgT+mkrDFXG49mTtqe7exeB5tjR051JdhV/\nPcgX2iLU7i3BHueKMXI14Gx26HR/v84GuBKIedECgYBlWRlnFga6mxuqLzImJBBn\nfp9SPfzhTZ3RLg8kCHsjZMKkWUud17KRij85e9BZnnQo6e7gnN4MOZ/+l+YH/gp1\nctjR+KwVemQhL6QpGw4KGyKpPeA655vS6R4fSfpvpVcFePfLAWV+iYBi7khLpRgG\nanT36Z1zGRjaz9RZtoWWyg==\n-----END PRIVATE KEY-----\n",
-  "client_email": "sheetsextractor@lucid-cocoa-375621.iam.gserviceaccount.com",
-  "client_id": "113241270096512413018",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheetsextractor%40lucid-cocoa-375621.iam.gserviceaccount.com"
+
 }
